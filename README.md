@@ -52,11 +52,7 @@
         <li>AUC-ROC Curve</li>
     </ul>
 
-    <h3>Confusion Matrix Example</h3>
-    <img src="images/confusion_matrix.png" alt="Confusion Matrix">
-
-    <h3>ROC Curve</h3>
-    <img src="images/roc_curve.png" alt="ROC Curve">
+  
 </div>
 
 <div class="section">
@@ -66,7 +62,7 @@
         <strong>Logistic Regression</strong> was selected as the best-performing model.
     </p>
 
-    <img src="images/model_comparison.png" alt="Model Comparison">
+  
 </div>
 
 <div class="section">
