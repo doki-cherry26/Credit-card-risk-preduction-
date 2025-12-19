@@ -85,8 +85,7 @@
         and make predictions based on user input.
     </p>
 
-    <h3>Web Application Interface</h3>
-    <img src="images/webpage.png" alt="Web Page Screenshot">
+    
 </div>
 
 <div class="section">
