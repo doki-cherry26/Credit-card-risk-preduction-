@@ -2,40 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Credit Card Prediction Project</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        .section {
-            background: #ffffff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 8px rgba(0,0,0,0.08);
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border: 1px solid #ddd;
-            border-radius: 6px;
-            margin-top: 10px;
-        }
-        code {
-            background-color: #eef;
-            padding: 3px 6px;
-            border-radius: 4px;
-        }
-    </style>
+    
 </head>
 <body>
 
